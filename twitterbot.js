@@ -73,7 +73,7 @@ function streaming() {
   var stream = T.stream('user');
   stream.on('follow', followed);
 
-  function unfollowed(event) {
+  function followed(event) {
     console.log('somebody followed you');
     console.log(event);
   }
@@ -83,3 +83,4 @@ function streaming() {
 //streaming();
 //tweet("What's happening?");
 //searching();
+//timeline();

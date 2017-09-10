@@ -1,5 +1,5 @@
 # twitter-bot
-Twitter bot
+A simple twitter bot.
 
 # Description
 Just a project to practice JavaScript using Node.js and [Twit API](https://github.com/ttezel/twit) developed by @[ttezel](https://github.com/ttezel).

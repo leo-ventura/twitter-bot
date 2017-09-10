@@ -1,0 +1,20 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "Project to develop a twitter bot",
+  "main": "twitterbot.js",
+  "scripts": {
+    "start": "node twitterbot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "bot",
+    "twitter"
+  ],
+  "author": "Leonardo Ventura",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
